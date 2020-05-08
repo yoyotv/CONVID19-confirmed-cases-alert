@@ -13,3 +13,8 @@ An auto alert push a slack message about convid-19 confirmed cases.
 <p align="center">
   <img src="https://github.com/yoyotv/CONVID19-confirmed-cases-alert/blob/master/demo/demo_1.jpg" width="420" height="900">
 </p>
+
+
+<p align="center">
+  <img src="https://github.com/yoyotv/CONVID19-confirmed-cases-alert/blob/master/demo/airflow.png" width="1200" height="300">
+</p>
