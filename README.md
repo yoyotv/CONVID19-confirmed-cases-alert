@@ -10,4 +10,10 @@ An auto alert push a slack message about convid-19 confirmed cases.
 
 
 ## Demo
-![demo_1](https://github.com/yoyotv/CONVID19-confirmed-cases-alert/blob/master/demo/demo_1.jpg)
+
+<div align="center">
+  <img src="https://github.com/yoyotv/CONVID19-confirmed-cases-alert/blob/master/demo/demo_1.jpg">
+</div>
+<p align="center">
+  Figure 1: demo_1
+</p>
