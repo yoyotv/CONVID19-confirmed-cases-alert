@@ -8,3 +8,6 @@ An auto alert push a slack message about convid-19 confirmed cases.
 
 3. Using airflow to schedue the process everyday.
 
+
+## Demo
+![demo_1](https://github.com/yoyotv/CONVID19-confirmed-cases-alert/blob/master/demo/demo_1.jpg)
